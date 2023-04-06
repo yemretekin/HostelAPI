@@ -1,0 +1,17 @@
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/bin/Debug/net6.0/Hostel.DataAccess.deps.json
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/bin/Debug/net6.0/Hostel.DataAccess.dll
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/bin/Debug/net6.0/Hostel.DataAccess.pdb
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/bin/Debug/net6.0/Hostel.Entities.dll
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/bin/Debug/net6.0/Hostel.Entities.pdb
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/obj/Debug/net6.0/Hostel.DataAccess.csproj.AssemblyReference.cache
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/obj/Debug/net6.0/Hostel.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/obj/Debug/net6.0/Hostel.DataAccess.AssemblyInfoInputs.cache
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/obj/Debug/net6.0/Hostel.DataAccess.AssemblyInfo.cs
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/obj/Debug/net6.0/Hostel.DataAccess.csproj.CoreCompileInputs.cache
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/obj/Debug/net6.0/Hostel.DataAccess.csproj.CopyComplete
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/obj/Debug/net6.0/Hostel.DataAccess.dll
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/obj/Debug/net6.0/refint/Hostel.DataAccess.dll
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/obj/Debug/net6.0/Hostel.DataAccess.pdb
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/obj/Debug/net6.0/ref/Hostel.DataAccess.dll
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/bin/Debug/net6.0/Hostel.DataAccess.runtimeconfig.json
+/Users/hilal/RiderProjects/HostelAPI/Hostel.DataAccess/obj/Debug/net6.0/Hostel.DataAccess.genruntimeconfig.cache

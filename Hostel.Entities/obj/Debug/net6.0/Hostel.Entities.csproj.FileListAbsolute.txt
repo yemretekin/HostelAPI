@@ -1,0 +1,14 @@
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/bin/Debug/net6.0/Hostel.Entities.deps.json
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/bin/Debug/net6.0/Hostel.Entities.dll
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/bin/Debug/net6.0/Hostel.Entities.pdb
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/obj/Debug/net6.0/Hostel.Entities.csproj.AssemblyReference.cache
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/obj/Debug/net6.0/Hostel.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/obj/Debug/net6.0/Hostel.Entities.AssemblyInfoInputs.cache
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/obj/Debug/net6.0/Hostel.Entities.AssemblyInfo.cs
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/obj/Debug/net6.0/Hostel.Entities.csproj.CoreCompileInputs.cache
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/obj/Debug/net6.0/Hostel.Entities.dll
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/obj/Debug/net6.0/refint/Hostel.Entities.dll
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/obj/Debug/net6.0/Hostel.Entities.pdb
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/obj/Debug/net6.0/ref/Hostel.Entities.dll
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/bin/Debug/net6.0/Hostel.Entities.runtimeconfig.json
+/Users/hilal/RiderProjects/HostelAPI/Hostel.Entities/obj/Debug/net6.0/Hostel.Entities.genruntimeconfig.cache
